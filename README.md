@@ -1,8 +1,9 @@
 # The Daily Script [Movie Scripts Downloader]
 
 ### Source Website Link:
-http://www.dailyscript.com/movie.html
-http://www.dailyscript.com/movie_n-z.html
+      http://www.dailyscript.com/movie.html
+      
+      http://www.dailyscript.com/movie_n-z.html
 
 ### Functions:
 __saveFile()__ : It is downloading any files (.html, .txt, .pdf, .RTF, .doc etc)
