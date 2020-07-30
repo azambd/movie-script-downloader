@@ -2,7 +2,7 @@
 
 ### Source Website Link:
       http://www.dailyscript.com/movie.html
-      
+
       http://www.dailyscript.com/movie_n-z.html
 
 ### Functions:
@@ -25,12 +25,7 @@ scrapy crawl movieScript
 .
 ├── README.md
 ├── ScriptsDL
-│   ├── 10\ Things\ I\ Hate\ About\ You.html
-│   ├── 12\ And\ Holding.pdf
-│   ├── 12\ Monkeys.html
 │   ├── 13\ Days.html
-│   ├── 13\ Ghosts.pdf
-│   ├── 84\ Charlie\ MoPic.html
 │   ├── Aliens.pdf
 │   └── Amadeus.txt
 ├── dailyscript
@@ -46,3 +41,7 @@ scrapy crawl movieScript
 
 3 directories, 17 files
 ````
+### To do:
+1. Work on log capturing and analyze entire performance
+2. Work redirection
+3. Export related info [name, link, etc] to a csv file
